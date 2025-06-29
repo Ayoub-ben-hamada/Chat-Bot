@@ -27,7 +27,7 @@ This project is a simple but powerful AI chatbot built with:
 
 ## 🚀 Live Demo
 
-- 🔗 Frontend: [https://mychatbot.vercel.app](https://mychatbot.vercel.app)
+- 🔗 Frontend: (https://mychatbot.vercel.app)](https://chatbot-react25.netlify.app/)
 - 🔗 Backend: [https://mychatbot-backend.onrender.com](https://mychatbot-backend.onrender.com)
 
 ---
