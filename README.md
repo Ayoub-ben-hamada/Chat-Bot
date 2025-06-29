@@ -27,7 +27,7 @@ It provides a clean and responsive UI for chatting with local LLMs powered by Ol
 ### 🚀 Live Demo
 
 🔗 [Live Chatbot App (Netlify)](https://chatbot-react25.netlify.app/)  
-🔗 [Backend API (Flask Repo)]([https://github.com/your-username/your-backend-repo](https://github.com/Ayoub-ben-hamada/chatbot-backend))
+🔗 [Backend API (Flask Repo)](https://github.com/Ayoub-ben-hamada/chatbot-backend)
 
 ---
 
@@ -38,4 +38,4 @@ git clone https://github.com/your-username/your-frontend-repo.git
 cd frontend-folder
 npm install
 npm start
- ```
+```
